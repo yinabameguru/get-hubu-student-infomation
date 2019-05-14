@@ -1,0 +1,123 @@
+0高校
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtSchool_0_I" name="gvSourceInfoFill$ef0$TC$txtSchool" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtSchool_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtSchool_0')" value="湖北大学" type="text">
+
+1学院
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtCollege_0_I" name="gvSourceInfoFill$ef0$TC$txtCollege" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtCollege_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtCollege_0')" value="计算机与信息工程学院" type="text">
+
+2学号
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtStudentNo_0_I" name="gvSourceInfoFill$ef0$TC$txtStudentNo" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtStudentNo_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtStudentNo_0')" value="2015221119200125" type="text">
+
+3姓名
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtName_0_I" name="gvSourceInfoFill$ef0$TC$txtName" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtName_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtName_0')" value="田筱雁" type="text">
+
+4身份证
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtID_0_I" name="gvSourceInfoFill$ef0$TC$txtID" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtID_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtID_0')" value="420606199707094048" type="text">
+
+5性别
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtSex_0_I" name="gvSourceInfoFill$ef0$TC$txtSex" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtSex_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtSex_0')" value="女" type="text">
+
+6学历
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtDegree_0_I" name="gvSourceInfoFill$ef0$TC$txtDegree" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtDegree_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtDegree_0')" value="本科生毕业" type="text">
+
+7专业
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtMajor_0_I" name="gvSourceInfoFill$ef0$TC$txtMajor" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtMajor_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtMajor_0')" value="物联网工程" type="text">
+
+8学制
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtXZ_0_I" name="gvSourceInfoFill$ef0$TC$txtXZ" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtXZ_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtXZ_0')" value="4" type="text">
+
+9学位
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtXW_0_I" name="gvSourceInfoFill$ef0$TC$txtXW" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtXW_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtXW_0')" value="学士" type="text">
+
+10培养方式
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtPYFS_0_I" name="gvSourceInfoFill$ef0$TC$txtPYFS" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtPYFS_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtPYFS_0')" value="非定向" type="text">
+
+11毕业年度
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtBYND_0_I" name="gvSourceInfoFill$ef0$TC$txtBYND" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtBYND_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtBYND_0')" value="2019" type="text">
+
+12专业方向
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtMajorDirection_0_I" name="gvSourceInfoFill$ef0$TC$txtMajorDirection" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtMajorDirection_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtMajorDirection_0')" type="text">
+
+13婚姻状况
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_cmbHYZK_0_I" name="gvSourceInfoFill$ef0$TC$cmbHYZK" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbHYZK_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbHYZK_0')" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbHYZK_0')" type="text">
+
+14政治面貌
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbZZMM" value="共青团员" id="gvSourceInfoFill_ef0_cmbZZMM_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbZZMM_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbZZMM_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbZZMM_0')" type="text" readonly>
+
+15民族
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbNation" value="汉族" id="gvSourceInfoFill_ef0_cmbNation_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbNation_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbNation_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbNation_0')" type="text" readonly>
+
+16出生日期
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtBirthday" value="19970709" id="gvSourceInfoFill_ef0_txtBirthday_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtBirthday_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtBirthday_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtBirthday_0')" type="text" readonly>
+
+17入学时间
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtRXSJ" value="20150901" id="gvSourceInfoFill_ef0_txtRXSJ_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtRXSJ_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtRXSJ_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtRXSJ_0')" type="text" readonly>
+
+18主修外语语种
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbMajorLanguage" value="英语" id="gvSourceInfoFill_ef0_cmbMajorLanguage_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbMajorLanguage_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbMajorLanguage_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbMajorLanguage_0')" type="text" readonly>
+
+19城乡生源
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbCXSY" value="农村" id="gvSourceInfoFill_ef0_cmbCXSY_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbCXSY_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbCXSY_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbCXSY_0')" type="text" readonly>
+
+20户口是否已转入学校
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbHK" value="否" id="gvSourceInfoFill_ef0_cmbHK_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbHK_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbHK_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbHK_0')" type="text" readonly>
+
+21档案是否已转入学校
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbDangAn" value="是" id="gvSourceInfoFill_ef0_cmbDangAn_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbDangAn_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbDangAn_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbDangAn_0')" type="text" readonly>
+
+22主修外语级别
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_cmbMajorRange_0_I" name="gvSourceInfoFill$ef0$TC$cmbMajorRange" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbMajorRange_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbMajorRange_0')" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbMajorRange_0')" type="text">
+
+23家庭住址
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtHomeAddress" value="樊城区柿铺乡张桥村一组147号" id="gvSourceInfoFill_ef0_txtHomeAddress_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtHomeAddress_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtHomeAddress_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtHomeAddress_0')" type="text" readonly>
+
+24生源地区
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$gluSYDQ" value="湖北省襄阳市樊城区; 420606" id="gvSourceInfoFill_ef0_gluSYDQ_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_gluSYDQ_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluSYDQ_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluSYDQ_0')" type="text" readonly>
+
+25没有
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol0_I" name="gvSourceInfoFill$ef0$TC$gluSYDQ$DDD$gv$DXFREditorcol0" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol0')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol0')" type="text">
+
+26没有
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol1_I" name="gvSourceInfoFill$ef0$TC$gluSYDQ$DDD$gv$DXFREditorcol1" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol1')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol1')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_gluSYDQ_0_DDD_gv_DXFREditorcol1')" type="text">
+
+27家庭邮编
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtHomeYB" value="441000" id="gvSourceInfoFill_ef0_txtHomeYB_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtHomeYB_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtHomeYB_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtHomeYB_0')" type="text" readonly>
+
+28师范生类别
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbSFSLB" value="非师范生" id="gvSourceInfoFill_ef0_cmbSFSLB_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbSFSLB_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbSFSLB_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbSFSLB_0')" type="text" readonly>
+
+29QQ号码
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtQQNo_0_I" name="gvSourceInfoFill$ef0$TC$txtQQNo" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtQQNo_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtQQNo_0')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtQQNo_0')" type="text">
+
+30家庭联系人
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtHomeLXR_0_I" name="gvSourceInfoFill$ef0$TC$txtHomeLXR" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtHomeLXR_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtHomeLXR_0')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtHomeLXR_0')" type="text">
+
+31家庭联系方式
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_txtHomeTelephone_0_I" name="gvSourceInfoFill$ef0$TC$txtHomeTelephone" readonly onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtHomeTelephone_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtHomeTelephone_0')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtHomeTelephone_0')" type="text">
+
+32意向地区
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$gluYXDQ" value="上海市松江区; 310117" id="gvSourceInfoFill_ef0_gluYXDQ_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_gluYXDQ_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluYXDQ_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluYXDQ_0')" type="text" readonly>
+
+33没有
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol0_I" name="gvSourceInfoFill$ef0$TC$gluYXDQ$DDD$gv$DXFREditorcol0" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol0')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol0')" type="text">
+
+34没有
+<input class="dxeEditArea_Aqua dxeEditAreaSys" id="gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol1_I" name="gvSourceInfoFill$ef0$TC$gluYXDQ$DDD$gv$DXFREditorcol1" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol1')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol1')" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_gluYXDQ_0_DDD_gv_DXFREditorcol1')" type="text">
+
+35意向单位性质
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbYXDWXZ" value="拟升学、出国" id="gvSourceInfoFill_ef0_cmbYXDWXZ_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbYXDWXZ_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbYXDWXZ_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbYXDWXZ_0')" type="text" readonly>
+
+36意向单位行业
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbYXDWHY" value="--软件业" id="gvSourceInfoFill_ef0_cmbYXDWHY_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbYXDWHY_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbYXDWHY_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbYXDWHY_0')" type="text" readonly>
+
+37意向职位类别
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbYXZWLB" value="IT、通信类工程师" id="gvSourceInfoFill_ef0_cmbYXZWLB_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbYXZWLB_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbYXZWLB_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbYXZWLB_0')" type="text" readonly>
+
+38意向月薪
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$cmbYXYX" value="6000-7000" id="gvSourceInfoFill_ef0_cmbYXYX_0_I" onchange="aspxETextChanged('gvSourceInfoFill_ef0_cmbYXYX_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_cmbYXYX_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_cmbYXYX_0')" type="text" readonly>
+
+39电子邮箱
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtEmail" value="1123117340@qq.com" id="gvSourceInfoFill_ef0_txtEmail_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtEmail_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtEmail_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtEmail_0')" type="text" readonly>
+
+40联系方式
+<input class="dxeEditArea_Aqua dxeEditAreaSys" name="gvSourceInfoFill$ef0$TC$txtPhoneNo" value="18872233342" id="gvSourceInfoFill_ef0_txtPhoneNo_0_I" onchange="aspxEValueChanged('gvSourceInfoFill_ef0_txtPhoneNo_0')" onblur="aspxELostFocus('gvSourceInfoFill_ef0_txtPhoneNo_0')" onfocus="aspxEGotFocus('gvSourceInfoFill_ef0_txtPhoneNo_0')" type="text" readonly>
+
